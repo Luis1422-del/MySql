@@ -374,7 +374,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void DialogConfirmacion2(){
         //startActivity(new Intent(getApplicationContext(),MainActivity.class));
-        String mensaje2 = "Creado por William Ortiz";
+        String mensaje2 = "Creado por Luis Alberto";
         dialogo = new AlertDialog.Builder(MainActivity.this);
         dialogo.setIcon(R.drawable.ic_search);
         dialogo.setTitle("Acerca de");
