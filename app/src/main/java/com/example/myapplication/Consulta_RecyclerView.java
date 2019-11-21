@@ -74,7 +74,7 @@ public class Consulta_RecyclerView extends AppCompatActivity {
         toolbar.setTitleMargin(0, 0, 0, 0);
         toolbar.setSubtitle("Consulta de Artículos");
         toolbar.setSubtitleTextColor(getResources().getColor(R.color.mycolor));
-        toolbar.setTitle("William Ortiz");
+        toolbar.setTitle("Luis Alberto");
         setSupportActionBar(toolbar);
 
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
